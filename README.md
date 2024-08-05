@@ -4,11 +4,11 @@ Hi 👋 My name is Łukasz
 Data Analysis Enthusiast | AI Student
 -------------------------------------
 
-🎓 AI student with a passion for turning data into insights. 
-📊 Skilled in data analysis, machine learning. 
-🏔️ Love climbing the mountains and playing guitar. 
-🎨 Inspired by modern art and impressionism. 
-📚 Avid reader of biographies and fan of 80's music. 
+🎓 AI student with a passion for turning data into insights. <br>
+📊 Skilled in data analysis, machine learning. <br>
+🏔️ Love climbing the mountains and playing guitar. <br>
+🎨 Inspired by modern art and impressionism. <br>
+📚 Avid reader of biographies and fan of 80's music. <br>
 🚫 Social Media Limiter
 
 * 🌍  I'm based in Earth
