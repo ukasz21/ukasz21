@@ -4,7 +4,12 @@ Hi 👋 My name is Łukasz
 Data Analysis Enthusiast | AI Student
 -------------------------------------
 
-🎓 AI student with a passion for turning data into insights. 📊 Skilled in data analysis, machine learning. 🏔️ Love climbing the mountains and playing guitar. 🎨 Inspired by modern art and impressionism. 📚 Avid reader of biographies and fan of 80's music. 🚫 Social Media Limiter
+🎓 AI student with a passion for turning data into insights. 
+📊 Skilled in data analysis, machine learning. 
+🏔️ Love climbing the mountains and playing guitar. 
+🎨 Inspired by modern art and impressionism. 
+📚 Avid reader of biographies and fan of 80's music. 
+🚫 Social Media Limiter
 
 * 🌍  I'm based in Earth
 * ✉️  You can contact me at [lnowakowski@gmail.com](mailto:lnowakowski@gmail.com)
