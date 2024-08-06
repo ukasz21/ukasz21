@@ -1,7 +1,7 @@
 Hi 👋 My name is Łukasz
 =======================
 
-Data Analysis Enthusiast | AI Student
+Data Analysis Enthusiast | AI Student | Lifelong Learner
 -------------------------------------
 
 🎓 AI student with a passion for turning data into insights. <br>
