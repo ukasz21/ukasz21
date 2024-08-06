@@ -1,4 +1,4 @@
-Hi 👋 My name is Łukasz
+Hello 👋 | My name is Łukasz
 =======================
 
 Data Analysis Enthusiast | AI Student | Lifelong Learner
