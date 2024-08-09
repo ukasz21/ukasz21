@@ -32,4 +32,4 @@ Data Analysis Enthusiast | AI Student | Lifelong Learner
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ukasz21&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ukasz21&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
