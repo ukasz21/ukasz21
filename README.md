@@ -32,6 +32,4 @@ Data Analysis Enthusiast | AI Student | Lifelong Learner
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ukasz21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ukasz21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ukasz21)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ukasz21&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
