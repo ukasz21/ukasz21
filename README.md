@@ -6,6 +6,7 @@ Data Analysis Enthusiast | AI Student | Lifelong Learner
 
 🎓 AI student with a passion for turning data into insights. <br>
 📊 Skilled in data analysis, machine learning. <br>
+📷 Enthusiast of both digital and film photography.  
 🏔️ Love climbing the mountains and playing guitar. <br>
 🎨 Inspired by modern art and impressionism. <br>
 📚 Avid reader of biographies and fan of 80's music. <br>
