@@ -70,7 +70,7 @@ Data Analysis Enthusiast | AI Student | Lifelong Learner
 ### Socials
 
 <p align="left">
-<a href="https://stackoverflow.com/users/luknow3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="luknow3" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/22389152/luknow3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="luknow3" height="40" width="40" /></a>
 <a href="https://kaggle.com/luknow3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luknow3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/luknow3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luknow3" height="30" width="40" /></a>
 </p>
