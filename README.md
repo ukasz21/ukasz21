@@ -15,7 +15,7 @@ Data Analysis Enthusiast | AI Student | Lifelong Learner
 * 🌍  I'm based in Earth
 * ✉️  You can contact me at [lnowakowski@gmail.com](mailto:lnowakowski@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡ I want to learn [Spanish](https://www.duolingo.com/profile/21), but it's harder than I thought
+* ⚡ I want to learn [Spanish](https://www.duolingo.com/profile/ukasz_21), but it's harder than I thought
 
 ### Skills
 
